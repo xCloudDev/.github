@@ -24,7 +24,7 @@ We believe in making deployment and management effortless so you can focus on bu
 ## 🌍 Get Involved
 We love collaborating with developers and the open-source community.  
 - Check out our [Website](https://xcloud.host)  
-- Follow us on [Twitter/X](https://twitter.com/xCloudHosting)  
+- Follow us on [Twitter/X](https://x.com/xCloud_host)  
 - Contribute to our projects right here on GitHub  
 
 ---
